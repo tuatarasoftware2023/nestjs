@@ -20,7 +20,8 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "ampt": {
-    "app": "nestjs-template"
+    "app": "nestjs",
+    "org": "tuatarasoftware248031"
   },
   "dependencies": {
     "@ampt/nestjs": "^1.0.0",
